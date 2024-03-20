@@ -1,15 +1,22 @@
-title: 
-description: 
-image: https://ipfs.io/ipfs/
+title: PoW JPGs
+description: "Proof of Work Jpegs/Pngs/Gifs/svgs"
+image: https://raw.githubusercontent.com/sigmagallery/powjpgs/main/banner.png
+pfp: https://raw.githubusercontent.com/sigmagallery/powjpgs/main/avatar.png
 mintAddresses:
-  - 
+  - 9gsiBLZowvDWtZ7wHuWZmv58LFqMfCEW4XepV9AYtr7HofPhFqJ
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/maritsaart
     icon: fa-brands fa-twitter fa-fw
   - label: Discord
-    url: https://discord.com/invite/
+    url: https://discord.com/invite/d9pug7twHE
     icon: fa-brands fa-discord fa-fw
+  - label: Telegram
+    url: https://t.me/maritsaart
+    icon: fa-brands fa-telegram fa-fw
+  - label: Instagram
+    url: https://www.instagram.com/maritsaart/
+    icon: fa-brands fa-instagram fa-fw
   - label: Website
-    url: 
-    icon: fa-solid fa-globe fa-fw
+    url: https://linktr.ee/maritsaart
+    icon: fa-solid fa-tree fa-fw
