@@ -1,4 +1,4 @@
 collections:
-- label: Collection1
-  data: collection1.yml
-  image: 
+- label: Proof of Work JPGs
+  data: powjpgs.yml
+  image: https://raw.githubusercontent.com/sigmagallery/powjpgs/main/avatar.png
