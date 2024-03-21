@@ -8,5 +8,5 @@ collections:
       [2] hexspeak image IPFS CID v0 (R9 register - link to the artwork),
       [3] hexspeak token Id,
       [4] hexspeak minting transaction Id,
-      royalty by EIP-0024 V1 artwork standard.
-    All these four hashes of each NFT are mined on specially designed miners.
+      [*] royalty by EIP-0024 V1 artwork standard.
+    All these four hashes are mined on specially designed miners.
