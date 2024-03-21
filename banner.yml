@@ -1,6 +1,7 @@
 title: PoW JPGs
 description: "Proof of Work Jpegs/Pngs/Gifs/svgs"
 image: https://raw.githubusercontent.com/sigmagallery/powjpgs/main/banner.png
+format: png
 pfp: https://raw.githubusercontent.com/sigmagallery/powjpgs/main/avatar.png
 mintAddresses:
   - 9gsiBLZowvDWtZ7wHuWZmv58LFqMfCEW4XepV9AYtr7HofPhFqJ
