@@ -1,17 +1,17 @@
 nfts:
 - tokenId: c0ffee11fe484d0c987c77636dc3cc429cef016a3dda31f51bd1cd85acb131f6
-  name: 'c0ffee. Proof of Work JPGs #01. Coffee'
+  name: 'c0ffee. PoW JPGs #01. Coffee'
   description: 'c0ffee... hexspeak image SHA256, ipfs CID, token Id, minting transaction Id. 2000x2000 px. Author @maritsaart'
   imageUrl: https://gateway.ipfs.io/ipfs/Qmcoffee11KLQuGdHn5oWTxQxxPAuSx9fjUj8hRuZw5qh9
 - tokenId: b0bca7111c5d25ae59b5b5e60bbc86044198201f93833301c762b45343a9666c
-  name: 'b0bca7. Proof of Work JPGs #02. Bobcat'
+  name: 'b0bca7. PoW JPGs #02. Bobcat'
   description: 'b0bca7... hexspeak image SHA256, ipfs CID, token Id, minting transaction Id. 2000x2000 px. Author @maritsaart'
   imageUrl: https://gateway.ipfs.io/ipfs/Qmbobca711RNCGdsBvvyfYizsT76Ae6xEE2SjmGAdtbFZ5
 - tokenId: ba0bab11a7f087af3868e8ddebddb76a183608de84a37e164021cdc47558ce99
-  name: 'ba0bab. Proof of Work JPGs #03. Baobab'
+  name: 'ba0bab. PoW JPGs #03. Baobab'
   description: 'ba0bab... hexspeak image SHA256, ipfs CID, token Id, minting transaction Id. 2000x2000 px. Author @maritsaart'
   imageUrl: https://gateway.ipfs.io/ipfs/Qmbaobab11huknTAf5DKAcNaF2jwqCB5g522SsVLAGwTe5
 - tokenId: acac1a117d33a320b69566bff653fc18a0357153b421d360f940a22374427c5e
-  name: 'acac1a. Proof of Work JPGs #04. Acacia'
+  name: 'acac1a. PoW JPGs #04. Acacia'
   description: 'acac1a... hexspeak image SHA256, ipfs CID, token Id, minting transaction Id. 2000x2000 px. Author @maritsaart'
   imageUrl: https://gateway.ipfs.io/ipfs/Qmacac1a11XmviGeuM2zQVdrLdRtVkeYspxSZsGe17gVxA
