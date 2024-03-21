@@ -3,15 +3,10 @@ collections:
   data: powjpgs.yml
   image: https://raw.githubusercontent.com/sigmagallery/powjpgs/main/avatar.png
   description: |
-    Each NFT from this collection has:\n
-      [1] hexspeak image SHA-256 hash (R8 register),\n
+    Each NFT from this collection has:
+      [1] hexspeak image SHA-256 hash (R8 register),
       [2] hexspeak image IPFS CID v0 (R9 register - link to the artwork),
       [3] hexspeak token Id,
       [4] hexspeak minting transaction Id,
       royalty by EIP-0024 V1 artwork standard.
     All these four hashes of each NFT are mined on specially designed miners.
-    
-    A Brief History regarding hash [3] (token Id mining).
-    The idea of the Proof-of-Work backed tokens was proposed in "[May 2020](https://www.ergoforum.org/t/proof-of-work-backed-tokens/224)",
-    was first issued in September 2020 (+blog) and was implemented
-    as a service for Ergo community in October 2022 (but without royalties).
